@@ -1,0 +1,3 @@
+[submodule "holders/BOSL2"]
+	path = holders/BOSL2
+	url = https://github.com/BelfrySCAD/BOSL2/
